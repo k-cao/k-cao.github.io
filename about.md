@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hello world!
+I am currently a 3A SE student at the University of Waterloo.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Resume](/assets/resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/hanyuancao/)
+[GitHub](https://github.com/k-cao)
+[GitLab](https://gitlab.com/k-cao)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Work Experience
+* [DeepLearni.ng](http://deeplearni.ng/) Emerging Machine Learning Developer, Sep - Dec 2017
+* [Ontario Institute for Cancer Research](https://oicr.on.ca/) Software Developer, Jan - Apr 2017
+* [Ontario Teachers' Pension Plan](https://www.otpp.com/) Analysis Programmer, May - Aug 2016
 
-
-[jekyll-organization]: https://github.com/jekyll
+# Non-technical Interests
+* [Drawing](https://unknownwormfood.deviantart.com/)
