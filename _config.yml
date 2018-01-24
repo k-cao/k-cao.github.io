@@ -6,6 +6,7 @@ baseurl: ""
 github_username:  k-cao
 profile_pic: /assets/profile_pic.jpg
 url: "https://k-cao.github.io/"
+google_analytics: UA-112994317-1
 disqus:
   shortname: https-k-cao-github-io
 
