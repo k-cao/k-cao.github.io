@@ -3,10 +3,11 @@ email: hy2cao@edu.uwaterloo.ca
 description: >- # this means to ignore newlines until "baseurl:"
   A blog of a SE 2020 student.
 baseurl: ""
-url: ""
-twitter_username: ""
 github_username:  k-cao
 profile_pic: /assets/profile_pic.jpg
+url: "https://k-cao.github.io/"
+disqus:
+  shortname: https-k-cao-github-io
 
 # Build settings
 markdown: kramdown
