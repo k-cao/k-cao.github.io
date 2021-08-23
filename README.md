@@ -1,3 +1,13 @@
+# Getting Started with k-cao.github.io
+
+## Local Testing
+If dependencies have been updated, run `yarn install`.
+
+Run `yarn start` to see local changes on http://localhost:3000.
+
+## Deploy to Production
+Run `yarn run deploy` to deploy changes to https://k-cao.github.io.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
