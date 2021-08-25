@@ -27,6 +27,14 @@ class Resume extends Component {
       );
     });
 
+    const getWorkDetails = function (description) {
+      var rows = []
+      for (const sentence of description) {
+        rows.push(<ul>{sentence}</ul>);
+      }
+      return (<div>{rows}</div>);
+    }
+
     const work = this.props.data.work.map(function (work) {
       return (
         <div key={work.company}>
@@ -35,7 +43,7 @@ class Resume extends Component {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          {getWorkDetails(work.description)}
         </div>
       );
     });

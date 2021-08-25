@@ -32,7 +32,7 @@
       {
         "school":"University of Waterloo",
         "degree":"Bachelor of Software Engineering",
-        "graduated":"April 2020",
+        "graduated":"September 2015 - April 2020",
         "description":"Graduated with Distinction"
       }
     ],
@@ -41,43 +41,72 @@
         "company":"Guidewire Software",
         "title":"Software Engineer II",
         "years":"June 2020 - Present",
-        "description":""
+        "description": [
+          "Programmed automation for onboarding in Java using Camunda workflows, reduced customer onboarding time from days to under 2 hours",
+          "Architected metadata service to be used by cloud department for administering customer & internal Kubernetes clusters",
+          "Developed & deployed CICD tools (TeamCity, Bitbucket) with Terraform & Kubernetes, in use by 20+ customers",
+          "Built retrospective site as a microservice in internal Kubernetes cluster, used by 86 teams"
+        ]
       },
       {
         "company":"Sumo Logic",
         "title":"Advanced Analytics Intern",
         "years":"September 2019 - December 2019",
-        "description":""
+        "description": [
+          "Aggregated suspicious AWS events collected through programmed log operators for presentation at AWS re:Invent 2019",
+          "Maintained operators in Sumo Logic log search with Scala",
+          "Prototyped AWS attack cycle detector based off tracked events using graph database and Python"
+        ]
       },
       {
         "company":"Nvidia",
         "title":"Machine Learning Intern",
         "years":"January 2019 - April 2019",
-        "description":""
+        "description": [
+          "Sped up the data cleaning of gaze-detection input features for CNN by 7 times",
+          "Revised input vector for eye gaze to improve detection accuracy",
+          "Automated the training and evaluation of ML networks through use of Docker containers",
+          "Reduced training time by 1.6 times through elimination of idle CPU time"
+        ]
       },
       {
         "company":"Autonomic",
         "title":"Ride Hailing Intern",
         "years":"May 2018 - August 2018",
-        "description":""
+        "description": [
+          "Reduced amount of S3 storage required by 5 times, overhauling use of complete model objects to smaller deltas in storage",
+          "Migrated historical events to new model without affecting production uptime, maintaining backwards compatibility in API",
+          "Ingested Kafka streams into SpringBoot backend for tracking rides in real-time",
+          "Sped up API update latency by 3 times through reducing model complexity"
+        ]
       },
       {
         "company":"Dessa",
         "title":"Machine Learning Intern",
         "years":"September 2017 - December 2017",
-        "description":""
+        "description": [
+          "Developed frontend interface for creating logic flows to orchestrate the training and evaluation of machine learning algorithms",
+          "Scripted GoCD for continous delivery of apps on Kubernetes to demo-able environment",
+          "Volunteered at external company meetups to educate and debug attendees' code for machine learning use cases captured in Jupyter notebooks"
+        ]
       },
       {
         "company":"Ontario Institute for Cancer Research",
         "title":"Software Intern",
         "years":"January 2017 - April 2017",
-        "description":""
+        "description": [
+          "Migrated frontend site from AngularJS to Angular 2 with RxJS for improved management of asynchronous events",
+          "Automated backups of hosted Docker images through cloud EC2 instances for disaster recovery"
+        ]
       },
       {
         "company":"Ontario Teachers’ Pension Plan",
         "title":"Software Intern",
         "years":"May 2016 - August 2016",
-        "description":""
+        "description": [
+          "Built email notification pipeline to alert on specialized trades",
+          "Developed full-stack app in C# & .NET framework to start jobs asynchronously and view queueing status"
+        ]
       }
     ],
     "skills":[
