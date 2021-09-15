@@ -42,7 +42,8 @@
         "title":"Software Engineer II",
         "years":"June 2020 - Present",
         "description": [
-          "Programmed automation for onboarding in Java using Camunda workflows, reduced customer onboarding time from days to under 2 hours",
+          "Programmed orchestration tool with Java, Spring Boot, and Camunda workflows for automating customer onboarding, reduced onboarding time from weeks to under 2 hours",
+          "Adopted hexagonal architecture to improve code quality for future tasks, cutting development time for new features by controlling class explosion",
           "Architected metadata service to be used by cloud department for administering customer & internal Kubernetes clusters",
           "Developed & deployed CICD tools (TeamCity, Bitbucket) with Terraform & Kubernetes, in use by 20+ customers",
           "Built retrospective site as a microservice in internal Kubernetes cluster, used by 86 teams"
@@ -53,9 +54,9 @@
         "title":"Advanced Analytics Intern",
         "years":"September 2019 - December 2019",
         "description": [
-          "Aggregated suspicious AWS events collected through programmed log operators for presentation at AWS re:Invent 2019",
+          "Aggregated suspicious AWS events collected through programmed Sumo Logic data analytics log operators for presentation at AWS re:Invent 2019",
           "Maintained operators in Sumo Logic log search with Scala",
-          "Prototyped AWS attack cycle detector based off tracked events using graph database and Python"
+          "Prototyped AWS attack cycle detector for monitored AWS events using Python, React, and Neo4j"
         ]
       },
       {
@@ -65,8 +66,8 @@
         "description": [
           "Sped up the data cleaning of gaze-detection input features for CNN by 7 times",
           "Revised input vector for eye gaze to improve detection accuracy",
-          "Automated the training and evaluation of ML networks through use of Docker containers",
-          "Reduced training time by 1.6 times through elimination of idle CPU time"
+          "Automated the training and evaluation of ML networks through scripting CICD pipelines and starting data cleaning app as a Docker container in Nvidia’s GPU cloud",
+          "Reduced training time by 1.6 times through elimination of idle CPU time in Tensorflow"
         ]
       },
       {
@@ -74,10 +75,10 @@
         "title":"Ride Hailing Intern",
         "years":"May 2018 - August 2018",
         "description": [
-          "Reduced amount of S3 storage required by 5 times, overhauling use of complete model objects to smaller deltas in storage",
+          "Reduced amount of S3 storage required by 5 times, overhauling use of complete model objects to smaller deltas in storage for record keeping and rollback in a distributed system",
           "Migrated historical events to new model without affecting production uptime, maintaining backwards compatibility in API",
           "Ingested Kafka streams into SpringBoot backend for tracking rides in real-time",
-          "Sped up API update latency by 3 times through reducing model complexity"
+          "Sped up API update latency by 3 times through reducing model complexity in SQL database"
         ]
       },
       {
@@ -121,6 +122,14 @@
       {
         "name":"Python",
         "level":"90%"
+      },
+      {
+        "name":"Tensorflow",
+        "level":"60%"
+      },
+      {
+        "name":"Keras",
+        "level":"50%"
       },
       {
         "name":"Golang",
