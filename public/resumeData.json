@@ -39,13 +39,13 @@
     "work":[
       {
         "company":"Guidewire Software",
-        "title":"Software Engineer II",
+        "title":"Software Engineer III",
         "years":"June 2020 - Present",
         "description": [
           "Programmed orchestration tool with Java, Spring Boot, and Camunda workflows for automating customer onboarding, reduced onboarding time from weeks to under 2 hours",
-          "Adopted hexagonal architecture to improve code quality for future tasks, cutting development time for new features by controlling class explosion",
-          "Architected metadata service to be used by cloud department for administering customer & internal Kubernetes clusters",
-          "Developed & deployed CICD tools (TeamCity, Bitbucket) with Terraform & Kubernetes, in use by 20+ customers",
+          "Adopted hexagonal architecture in Spring Boot Java codebase to improve code quality for future tasks, cutting development time for new features by controlling class explosion",
+          "Architected discovery service for metadata to be used by cloud department for administering customer & internal Kubernetes clusters",
+          "Developed & deployed CICD tools (TeamCity, Bitbucket) with Terraform & Kubernetes, in use by 20+ tenants",
           "Built retrospective site as a microservice in internal Kubernetes cluster, used by 86 teams"
         ]
       },
