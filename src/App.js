@@ -6,8 +6,8 @@ import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Resume from "./Components/Resume";
+import Portfolio from "./Components/Portfolio";
 // import Contact from "./Components/Contact";
-// import Portfolio from "./Components/Portfolio";
 
 class App extends Component {
   constructor(props) {
@@ -43,10 +43,15 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <link rel="stylesheet" href="../public/css/default.css" />
+        <link rel="stylesheet" href="../public/css/layout.css" />
+        <link rel="stylesheet" href="../public/css/media-queries.css" />
+        <link rel="stylesheet" href="../public/css/magnific-popup.css" />
+
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
-        {/* <Portfolio data={this.state.resumeData.portfolio} /> */}
+        <Portfolio data={this.state.resumeData.portfolio} />
         {/* <Contact data={this.state.resumeData.main} /> */}
         <Footer data={this.state.resumeData.main} />
       </div>

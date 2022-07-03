@@ -78,3 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### References
+
+[Template Website](https://nordicgiant2.github.io/react-nice-resume-page)
+[Github Repository](https://github.com/nordicgiant2/react-nice-resume)
