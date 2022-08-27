@@ -27,6 +27,7 @@ class About extends Component {
           <div className="row">
             <div className="three columns">
               <img
+                alt="profile"
                 className="profile-pic"
                 src={profilepic}
               />

@@ -16,7 +16,7 @@ class Portfolio extends Component {
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
             <div style={{ textAlign: "center" }}>
-              <a href='https://google.com'>{projects.title}</a>
+              <a href={projects.url}>{projects.title}</a>
             </div>
           </div>
         </div>
