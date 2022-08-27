@@ -13,17 +13,17 @@
       {
         "name": "medium",
         "url": "https://medium.com/@k-cao",
-        "className": "fa fa-pencil"
+        "className": "fa-brands fa-medium"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/k-cao",
-        "className": "fa fa-linkedin"
+        "className": "fa-brands fa-linkedin-in"
       },
       {
         "name": "github",
         "url": "https://github.com/k-cao",
-        "className": "fa fa-github"
+        "className": "fa-brands fa-github"
       }
     ]
   },
